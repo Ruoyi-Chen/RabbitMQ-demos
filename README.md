@@ -1,4 +1,4 @@
-# RabbitMQ-demos
+# RabbitMQ翻译版中文文档
 
 @[toc]
 
